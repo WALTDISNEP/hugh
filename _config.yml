@@ -16,7 +16,7 @@ blogurl:             ''
 paginate:            5
 
 # Pagination
-paginate_path:       'blog/page:num/'
+# paginate_path:       'blog/page:num/'
 
 # About/contact
 author:
