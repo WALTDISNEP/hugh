@@ -10,7 +10,7 @@ tagline:             'Data Scientist and Software Engineer.'
 
 # description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description:         'The internet home of Sajal Sharma. Data Scientist. Software Engineer. Amateur Philosopher.'
-url:                 https://github.com/WALTDISNEP/
+url:                 https://github.com/WALTDISNEP/hugh
 baseurl:             '/hugh'
 blogurl:             ''
 paginate:            5
@@ -28,10 +28,10 @@ author:
 version:             1.0.1
 
 #Gems
-gems:
-  - jekyll-paginate
-  - jekyll-assets
-  - jekyll-seo-tag
+#gems:
+  # - jekyll-paginate
+  # - jekyll-assets
+  # - jekyll-seo-tag
 
 # Compress.html
 compress_html:
